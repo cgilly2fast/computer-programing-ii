@@ -1,0 +1,9 @@
+<q>::=<qw> <s> <mv>
+<qw>::=what <bv>|when <av>|where <av>|why <av>|how <av>
+<v>::=<av>
+<bv>::=is|was
+<av>::=does|do|will|has|did
+<s>::= <s1> <s2>|<s1>|the <s2>
+<s1>::=the best|the worst|the ugliest|the smartest|the fastest|the hottest|the coolest|the tallest|the saddest|the nicest|the rudest|the shortest|the dumbest
+<s2>::=football player|celebratey|murder|politicain|person|people|country|state
+<mv>::= play?|love?|hate?|cry?|run?|live?|care?|fight?

@@ -1,0 +1,10 @@
+<c>::=<o> <p>
+<o>::=<l> <b> <g>|<i>
+<l>::=the|a
+<b>::=<y>|<y> <b>
+<y>::=hungry|flat|purple|gold|full|fan|art|advantage
+<g>::=wire|stuffs|thing|eat|fancy|<e>|face|run|card
+<i>::=John|Jane|AJ|Nacho|Fred|Elmo|<l>
+<p>::=<b> <o>|<e>|CSE|142|$|play
+<b>::=hitter|horror|kissed|help
+<e>::=lier|dinner|chicken| winner

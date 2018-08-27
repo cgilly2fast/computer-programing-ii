@@ -1,0 +1,23 @@
+Q:Do you wear it on your wrist?
+Q:Does it stop sweat?
+A:sweatband
+Q:Can it make you turn in to a alien?
+A:omnitrix
+Q:Can you eat it?
+A:candy bracelet
+A:a watch
+Q:Can you make calls on it?
+Q:is it wireless?
+A:cellphone
+A:landline
+Q:Do you wear it on your head?
+Q:Can it block the sun from your eyes?
+A:a hat
+A:headphones
+Q:Can it transport you?
+A:a car
+Q:Can you sleep in it?
+A:a bed
+Q:its red
+A:computer
+A:tomato

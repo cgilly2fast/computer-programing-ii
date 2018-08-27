@@ -1,0 +1,5 @@
+Q:Do you wear it on your wrist?
+A:a watch
+Q:Can you make calls on it?
+A:cellphone
+A:computer
